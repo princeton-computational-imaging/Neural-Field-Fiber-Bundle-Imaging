@@ -127,4 +127,4 @@ Two experimental scenarios are included:
 
 ## Contact
 
-For questions or issues, please open an issue on GitHub or contact [amir.vazifeh@princeton.edu].
+For questions or issues, please contact [amir.vazifeh@princeton.edu].
