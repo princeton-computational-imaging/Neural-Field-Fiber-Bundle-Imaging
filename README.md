@@ -57,9 +57,8 @@ where:
 
 ## Repository Structure
 
-- **`utils.py`** – Motion models and positional encoding utilities
-- **`main.ipynb`** – Jupyter notebook for running reconstruction on new bursts
-- **Ablation scripts** – Scripts for motion, encoding, and hyperparameter studies
+- **`Code/utils.py`** – Motion models and positional encoding utilities
+- **`Code/main.ipynb`** – Jupyter notebook for running reconstruction on new bursts and performing ablation studies on motion models, encodings, and hyperparameters.
 
 ---
 
@@ -89,7 +88,7 @@ Select the following options in the notebook:
 
 ## Dataset
 
-This repository provides both simulated and experimental datasets used in our fiber bundle imaging experiments. All data from our imaging setup is publicly available.
+This repository includes both simulated and experimental datasets used in our fiber bundle imaging experiments. All data from our imaging setup is available in Dataset folder.
 
 ### Simulated Data
 
