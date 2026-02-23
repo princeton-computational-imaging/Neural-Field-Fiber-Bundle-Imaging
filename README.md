@@ -125,6 +125,13 @@ Two experimental scenarios are included:
 
 ---
 
+## Citation
+
+Amir Reza Vazifeh, Congli Wang, Amogh Joshi, Ilya Chugunov, Jipeng Sun, Jiwoon Yeom, Jason W. Fleischer, José S. Pulido, and Felix Heide, "Seeing through fibers: unsupervised image reconstruction in fiber bundle imaging systems," *Opt. Express* 34, 7429-7444 (2026)
+
+---
+
+
 ## Contact
 
 For questions or issues, please contact [amir.vazifeh@princeton.edu].
