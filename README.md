@@ -125,6 +125,12 @@ Two experimental scenarios are included:
 
 ---
 
+## Contact
+
+For questions or issues, please contact [amir.vazifeh@princeton.edu].
+
+---
+
 ## Citation
 
 ```bibtex
@@ -136,10 +142,3 @@ Two experimental scenarios are included:
   pages     = {7429--7444},
   year      = {2026}
 }
-
----
-
-
-## Contact
-
-For questions or issues, please contact [amir.vazifeh@princeton.edu].
