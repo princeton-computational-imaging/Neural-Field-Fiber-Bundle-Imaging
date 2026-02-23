@@ -120,8 +120,7 @@ Two experimental scenarios are included:
 
 **Note:** Ground truth is not available for experimental data due to acquisition constraints. However, all misaligned raw images used in the experiments are included.
 
-> **Attribution:** Video 6 (Resolution chart) in the experimental dataset is sourced from the *PyFibreBundle* repository:  
-> https://github.com/MikeHughesKent/PyFibreBundle
+> **Attribution:** Video 6 (Resolution chart) in the experimental dataset is sourced from the *PyFibreBundle* repository: https://github.com/MikeHughesKent/PyFibreBundle
 
 ---
 
