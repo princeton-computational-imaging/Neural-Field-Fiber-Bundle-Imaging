@@ -134,7 +134,7 @@ For questions or issues, please contact [amir.vazifeh@princeton.edu].
 ## Citation
 
 ```bibtex
-@article{Vazifeh2026Seeing,
+@article{SeeingThroughFibers,
   author    = {Amir Reza Vazifeh and Congli Wang and Amogh Joshi and Ilya Chugunov and Jipeng Sun and Jiwoon Yeom and Jason W. Fleischer and José S. Pulido and Felix Heide},
   title     = {Seeing through fibers: unsupervised image reconstruction in fiber bundle imaging systems},
   journal   = {Optics Express},
