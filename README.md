@@ -5,7 +5,7 @@
 
 <p>
   <a href="https://light.princeton.edu/publication/seeing-through-fibers/"><img src="https://img.shields.io/badge/Project_Page-Fiber_Bundle-blue?style=flat-square" alt="Project Page"></a>
-  <a href="https://opg.optica.org/oe/home.cfm"><img src="https://img.shields.io/badge/Journal-Optics_Express_2026-orange?style=flat-square" alt="Optics Express 2026"></a>
+  <a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-34-5-7429"><img src="https://img.shields.io/badge/Journal-Optics_Express_2026-orange?style=flat-square" alt="Optics Express 2026"></a>
 </p>
 
 <p>
