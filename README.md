@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  <a href="#">Amir Reza Vazifeh</a><sup>1</sup> &nbsp;·&nbsp;
+  <a href="https://github.com/amirrezavazifeh">Amir Reza Vazifeh</a><sup>1</sup> &nbsp;·&nbsp;
   <a href="https://congliwang.github.io/">Congli Wang</a><sup>2</sup> &nbsp;·&nbsp;
   <a href="https://amogh7joshi.github.io/">Amogh Joshi</a><sup>1</sup> &nbsp;·&nbsp;
   <a href="https://ilyac.info/">Ilya Chugunov</a><sup>2</sup> &nbsp;·&nbsp;
