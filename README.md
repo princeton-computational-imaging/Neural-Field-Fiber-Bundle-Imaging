@@ -1,9 +1,40 @@
-# Neural Field for Fiber Bundle Imaging
+<div align="center">
+
+<h1>Seeing Through Fibers: Unsupervised Image Reconstruction in Fiber Bundle Imaging Systems
+</h1>
+
+<p>
+  <a href="https://light.princeton.edu/publication/seeing-through-fibers/"><img src="https://img.shields.io/badge/Project_Page-Fiber_Bundle-blue?style=flat-square" alt="Project Page"></a>
+  <a href="https://opg.optica.org/oe/home.cfm"><img src="https://img.shields.io/badge/Journal-Optics_Express_2026-orange?style=flat-square" alt="Optics Express 2026"></a>
+</p>
+
+<p>
+  <a href="#">Amir Reza Vazifeh</a><sup>1</sup> &nbsp;·&nbsp;
+  <a href="https://congliwang.github.io/">Congli Wang</a><sup>2</sup> &nbsp;·&nbsp;
+  <a href="https://amogh7joshi.github.io/">Amogh Joshi</a><sup>1</sup> &nbsp;·&nbsp;
+  <a href="https://ilyac.info/">Ilya Chugunov</a><sup>2</sup> &nbsp;·&nbsp;
+  <a href="https://jipengsun.github.io/">Jipeng Sun</a><sup>2</sup> &nbsp;·&nbsp;
+  <a href="https://jiwoonyeom.wordpress.com/">Jiwoon Yeom</a><sup>2</sup> &nbsp;·&nbsp;
+  <a href="https://ece.princeton.edu/people/jason-w-fleischer">Jason W. Fleischer</a><sup>1</sup> &nbsp;·&nbsp;
+  <a href="#">José S. Pulido</a><sup>3</sup> &nbsp;·&nbsp;
+  <a href="https://www.cs.princeton.edu/~fheide/">Felix Heide</a><sup>2,*</sup>
+</p>
+
+<p>
+  <sup>1</sup> Department of Electrical and Computer Engineering, Princeton University, Princeton, New Jersey 08544, USA<br>
+  <sup>2</sup> Department of Computer Science, Princeton University, Princeton, New Jersey 08544, USA<br>
+  <sup>3</sup> Wills Eye Hospital, Philadelphia, Pennsylvania 19107, USA
+</p>
+
+<p><em>Optics Express</em>, 2026</p>
+
+</div>
+
+---
 
 <p align="center">
   <img src="Figures/Principle.png" width="1000">
 </p>
-
 ---
 
 ## Overview
